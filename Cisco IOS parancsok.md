@@ -25,10 +25,7 @@
     Router(config-if)# description Az interfesz leírása
     ```
 
-- Helyi felhasználó létrehozása:
-    ```
-    Router(config)# username admin secret titkosjelszo
-    ```
+- Helyi felhasználó létrehozása: `Router(config)# username admin secret titkosjelszo`
 
 ## Hálózati címek és forgalomirányítás
 
